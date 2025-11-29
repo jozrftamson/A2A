@@ -86,3 +86,20 @@ These agentic frameworks have built-in A2A integration, making it easy to get st
 The excitement surrounding Google's A2A protocol clearly indicates a strong belief in its potential to revolutionize multi-agent AI systems. By providing a standardized way for AI agents to communicate and collaborate, A2A is poised to unlock new levels of automation and innovation. As enterprises increasingly adopt AI agents, A2A represents a crucial step towards realizing the full power of interconnected AI ecosystems.
 
 **Join the growing community building the future of AI interoperability with A2A!**
+
+---
+
+## Ways to Get Involved
+
+Ready to collaborate? Here are the quickest ways to contribute:
+
+- **Start a conversation:** Use [GitHub Discussions](https://github.com/a2aproject/A2A/discussions) to share ideas, propose features, or ask questions.
+- **Triage or file issues:** Check [open issues](https://github.com/a2aproject/A2A/issues) for areas where help is needed, or open a new one with clear repro steps and context.
+- **Follow the contribution workflow:**
+  1. Fork the repo and create a feature branch.
+  2. Implement your change and add tests or examples when applicable.
+  3. Run linting and docs builds if you touched code or documentation.
+  4. Open a pull request describing the problem, solution, and testing.
+- **Share feedback privately:** Use the [feedback form](https://goo.gle/a2a-feedback) if you cannot share details publicly.
+
+Be sure to review the [Contributing Guide](https://github.com/a2aproject/A2A/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/a2aproject/A2A/blob/main/CODE_OF_CONDUCT.md) before you start. If you want deeper involvement, check out the [governance model](https://github.com/a2aproject/A2A/blob/main/GOVERNANCE.md) and consider attending community calls announced in Discussions.
